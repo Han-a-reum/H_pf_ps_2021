@@ -9,7 +9,12 @@ img {
 body {
   background-repeat: no-repeat;
   background-size: var(--site-width) auto;
+  background-color: #26272B;
   height: 8740px;
+}
+
+html, body{
+  overflow-y: hidden;
 }
 
 .site-wrap {
