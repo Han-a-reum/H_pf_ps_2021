@@ -1,0 +1,19 @@
+:root {
+  --site-width: calc(1920px);
+}
+
+img {
+  display: block;
+}
+
+body {
+  background-repeat: no-repeat;
+  background-size: var(--site-width) auto;
+  height: 8740px;
+}
+
+.site-wrap {
+  position: relative;
+  width: var(--site-width);
+  z-index: 0;
+}
