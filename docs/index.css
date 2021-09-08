@@ -62,3 +62,29 @@ body {
   right: 100px;
   left: auto;
 }
+
+.bn_4_1_1{
+  position: absolute;
+  top:1928px;
+  left: 100px;
+}
+
+.bn_4_1_2{
+  position: absolute;
+  top:1955px;
+  right: 100px;
+  left: auto;
+}
+
+.bn_5_1_1{
+  position: absolute;
+  top:2307px;
+  left: 100px;
+}
+
+.bn_5_1_2{
+  position: absolute;
+  top:2208px;
+  right: 100px;
+  left: auto;
+}
