@@ -13,12 +13,52 @@ body {
   height: 8740px;
 }
 
-html, body{
-  overflow-y: hidden;
-}
-
 .site-wrap {
   position: relative;
   width: var(--site-width);
   z-index: 0;
+}
+
+.bn_1_1_1{
+  position: absolute;
+  top:202px;
+  left: 1032px;
+}
+
+.bn_1_1_2{
+  position: absolute;
+  top:50px;
+  left: 100px;
+  z-index: 10;
+}
+
+.bn_1_1_3{
+  position: absolute;
+  top:475px;
+  left: 100px;
+}
+
+.bn_2_1_1{
+  position: absolute;
+  top:1168px;
+  left: 100px;
+}
+
+.bn_2_1_2{
+  position: absolute;
+  top:1059px;
+  left: 1078px;
+}
+
+.bn_3_1_1{
+  position: absolute;
+  top:1548px;
+  left: 100px;
+}
+
+.bn_3_1_2{
+  position: absolute;
+  top:1600px;
+  right: 100px;
+  left: auto;
 }
