@@ -88,3 +88,59 @@ body {
   right: 100px;
   left: auto;
 }
+
+.bn_6_1_1{
+  position: absolute;
+  top:2689px;
+  left: 100px;
+}
+
+.bn_6_2_1{
+  position: absolute;
+  top:2868px;
+  left: 55px;
+  width: 321px;
+  height: 192px;
+}
+
+.bn_6_2_2{
+  position: absolute;
+  top:2907px;
+  left: 220px;
+}
+
+.bn_6_2_3{
+  position: absolute;
+  top:2828px;
+  left: auto;
+  right: 114px;
+}
+
+.bn_6_2_4{
+  position: absolute;
+  top:3164px;
+  left: 55px;
+  z-index: 11;
+}
+
+.bn_6_2_5{
+  position: absolute;
+  top:3224px;
+  left: 824px;
+  z-index: 11;
+}
+
+.bn_6_2_6{
+  position: absolute;
+  top:3522px;
+  left: auto;
+  right: 55px;
+  z-index: 11;
+}
+
+.bn_6_2_7{
+  position: absolute;
+  top:3542px;
+  left: 857px;
+  z-index: 11;
+}
