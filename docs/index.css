@@ -34,9 +34,22 @@ body {
 
 .bn_1_1_3 {
   position: absolute;
-  top: 475px;
+  top: 843px;
   left: 100px;
 }
+
+.bn_1_2_1 {
+  position: absolute;
+  top: 260px;
+  left: 258px;
+}
+
+.bn_1_2_2 {
+  position: absolute;
+  top: 250px;
+  left: 358px;
+}
+
 
 .bn_2_1_1 {
   position: absolute;
@@ -71,7 +84,7 @@ body {
 
 .bn_4_1_2 {
   position: absolute;
-  top: 1955px;
+  top: 1829px;
   right: 100px;
   left: auto;
 }
@@ -84,7 +97,7 @@ body {
 
 .bn_5_1_2 {
   position: absolute;
-  top: 2208px;
+  top: 2357px;
   right: 100px;
   left: auto;
 }
