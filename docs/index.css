@@ -46,10 +46,15 @@ body {
 
 .bn_1_2_2 {
   position: absolute;
-  top: 250px;
-  left: 358px;
+  top: 260px;
+  left: 383px;
 }
 
+.bn_1_2_3 {
+  position: absolute;
+  top: 235px;
+  left: 360px;
+}
 
 .bn_2_1_1 {
   position: absolute;
