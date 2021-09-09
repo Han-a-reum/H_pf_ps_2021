@@ -305,13 +305,14 @@ body {
   position: absolute;
   top: 7270px;
   left: 620px;
-  z-index: 11;
+  z-index: 12;
 }
 
 .bn_11_1_4 {
   position: absolute;
   top: 7420px;
   left: 1291px;
+  z-index: 11;
 }
 
 .bn_12_1_1 {
@@ -325,4 +326,10 @@ body {
   position: absolute;
   top: 7470px;
   left: 183px;
+}
+
+.bn_12_1_3 {
+  position: absolute;
+  top: 8680px;
+  left: 819px;
 }
