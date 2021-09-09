@@ -313,3 +313,16 @@ body {
   top: 7420px;
   left: 1291px;
 }
+
+.bn_12_1_1 {
+  position: absolute;
+  top: 8139px;
+  left: 100px;
+  z-index: 9;
+}
+
+.bn_12_1_2 {
+  position: absolute;
+  top: 7470px;
+  left: 183px;
+}
