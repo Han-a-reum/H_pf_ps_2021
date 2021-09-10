@@ -80,7 +80,7 @@ body {
 .bn_2_1_1 {
   position: absolute;
   top: 1168px;
-  left: 100px;
+  left: -100px; /* 100 */
 }
 
 .bn_2_1_2 {

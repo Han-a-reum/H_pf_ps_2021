@@ -14,3 +14,14 @@ var swiper = new Swiper(".mySwiper", {
     disableOnInteraction: false,
   },
 });
+
+gsap.to('.bn_2_1_1', {
+  x:200,
+  duration:2,
+  scrollTrigger:{
+    trigger:'.bn_2_1_1',
+    markers:false,
+    start:'0% 100%',
+    end:'100% 0',
+  },
+});
