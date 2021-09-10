@@ -8,7 +8,7 @@ img {
 
 body {
   background-repeat: no-repeat;
-  background-size: var(--site-width) auto;
+  background-size: var(--site-width) 1920px;
   background-color: #26272B;
   height: 8740px;
 }
@@ -38,6 +38,12 @@ body {
 @keyframes blink{ 
   0% {opacity:0;} 
   100% {opacity:1;} 
+}
+
+.bn_1_1_0 {
+  position: absolute;
+  top: 64px;
+  left: 117px;
 }
 
 .bn_1_1_1 {
@@ -80,7 +86,7 @@ body {
 .bn_2_1_1 {
   position: absolute;
   top: 1168px;
-  left: -100px; /* 100 */
+  left: 100px;
 }
 
 .bn_2_1_2 {
