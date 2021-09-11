@@ -249,24 +249,24 @@ body {
   position: absolute;
   top: 4778px;
   left: auto;
-  right: 33px;
+  right: -197px; /* 33 230 */
   z-index: 11;
 }
 
 .bn_8_2_4 {
   position: absolute;
-  top: 4827px;
+  top: 4800px;
   left: 237px;
-  width: 343px;
-  height: 526px;
+  width: 397px;
+  height: 605px;
 }
 
 .bn_8_1_4 {
   position: absolute;
-  top: 4827px;
+  top: 4800px;
   left: 237px;
-  width: 343px;
-  height: 526px;
+  width: 397px;
+  height: 605px;
 }
 
 .bn_9_1_1 {
@@ -287,7 +287,7 @@ body {
   position: absolute;
   top: 5607px;
   left: auto;
-  right: 33px;
+  right: -197px; /* 33 230 */
   z-index: 11;
 }
 
@@ -295,6 +295,12 @@ body {
   position: absolute;
   top: 5716px;
   left: 177px;
+}
+
+.bn_9_1_5 {
+  position: absolute;
+  top: 5705px;
+  left: 168px;
 }
 
 .bn_10_1_1 {
