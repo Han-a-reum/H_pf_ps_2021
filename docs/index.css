@@ -19,10 +19,31 @@ body {
   z-index: 0;
 }
 
-.blinking{ 
+.blinking { 
   -webkit-animation:blink 0.5s ease-in-out infinite alternate; 
   -moz-animation:blink 0.5s ease-in-out infinite alternate;
   animation:blink 0.5s ease-in-out infinite alternate; 
+}
+
+@-webkit-keyframes blink{ 
+  0% {opacity:0;} 
+  100% {opacity:1;} 
+}
+
+@-moz-keyframes blink{
+  0% {opacity:0;} 
+  100% {opacity:1;}
+} 
+
+@keyframes blink{ 
+  0% {opacity:0;} 
+  100% {opacity:1;} 
+}
+
+.blinking_2 { 
+  -webkit-animation:blink 2s ease-in-out infinite alternate; 
+  -moz-animation:blink 2s ease-in-out infinite alternate;
+  animation:blink 2s ease-in-out infinite alternate; 
 }
 
 @-webkit-keyframes blink{ 
@@ -231,6 +252,15 @@ body {
   right: 33px;
   z-index: 11;
 }
+
+.bn_8_2_4 {
+  position: absolute;
+  top: 4827px;
+  left: 237px;
+  width: 343px;
+  height: 526px;
+}
+
 .bn_8_1_4 {
   position: absolute;
   top: 4827px;
