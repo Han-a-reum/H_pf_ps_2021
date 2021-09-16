@@ -14,27 +14,3 @@ var swiper = new Swiper(".mySwiper", {
     disableOnInteraction: false,
   },
 });
-
-gsap.to('.bn_8_1_3', {
-  x:-230,
-  opacity:1,
-  duration:2,
-  scrollTrigger:{
-    trigger:'.bn_8_1_3',
-    markers:false,
-    start:'50% 100%',
-    end:'100% 0',
-  },
-});
-
-gsap.to('.bn_9_1_3', {
-  x:-230,
-  opacity:1,
-  duration:2,
-  scrollTrigger:{
-    trigger:'.bn_9_1_3',
-    markers:false,
-    start:'50% 100%',
-    end:'100% 0',
-  },
-});
